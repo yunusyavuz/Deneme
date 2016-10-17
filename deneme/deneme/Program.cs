@@ -12,6 +12,7 @@ namespace deneme
         {
             Console.WriteLine("Merhaba Dunya");
             // deneme
+            //1-2-3
         }
     }
 }
