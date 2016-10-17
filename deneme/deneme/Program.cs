@@ -11,6 +11,7 @@ namespace deneme
         static void Main(string[] args)
         {
             Console.WriteLine("Merhaba Dunya");
+            // deneme
         }
     }
 }
